@@ -1,0 +1,33 @@
+
+E: 0   Loss train: 0.0   Loss Test: 0.0
+              precision    recall  f1-score   support
+
+       happy       0.00      0.00      0.00        46
+         sad       0.52      0.98      0.68        50
+
+    accuracy                           0.51        96
+   macro avg       0.26      0.49      0.34        96
+weighted avg       0.27      0.51      0.35        96
+
+
+E: 1   Loss train: 0.0   Loss Test: 0.0
+              precision    recall  f1-score   support
+
+       happy       0.00      0.00      0.00        46
+         sad       0.52      0.98      0.68        50
+
+    accuracy                           0.51        96
+   macro avg       0.26      0.49      0.34        96
+weighted avg       0.27      0.51      0.35        96
+
+
+E: 2   Loss train: 0.0   Loss Test: 0.0
+              precision    recall  f1-score   support
+
+       happy       0.00      0.00      0.00        46
+         sad       0.52      0.98      0.68        50
+
+    accuracy                           0.51        96
+   macro avg       0.26      0.49      0.34        96
+weighted avg       0.27      0.51      0.35        96
+
