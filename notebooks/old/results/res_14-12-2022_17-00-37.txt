@@ -1,0 +1,561 @@
+
+Epoch: 0 Loss train: 0.841   Loss Test: 0.6741
+              precision    recall  f1-score   support
+
+       happy       0.62      0.54      0.58       636
+         sad       0.56      0.65      0.60       580
+
+    accuracy                           0.59      1216
+   macro avg       0.59      0.59      0.59      1216
+weighted avg       0.59      0.59      0.59      1216
+
+
+Epoch: 1 Loss train: 0.7134   Loss Test: 0.6692
+              precision    recall  f1-score   support
+
+       happy       0.59      0.60      0.60       627
+         sad       0.57      0.56      0.56       589
+
+    accuracy                           0.58      1216
+   macro avg       0.58      0.58      0.58      1216
+weighted avg       0.58      0.58      0.58      1216
+
+
+Epoch: 2 Loss train: 0.7239   Loss Test: 0.6674
+              precision    recall  f1-score   support
+
+       happy       0.57      0.73      0.64       629
+         sad       0.59      0.42      0.49       587
+
+    accuracy                           0.58      1216
+   macro avg       0.58      0.58      0.57      1216
+weighted avg       0.58      0.58      0.57      1216
+
+
+Epoch: 3 Loss train: 0.7206   Loss Test: 0.6755
+              precision    recall  f1-score   support
+
+       happy       0.56      0.81      0.66       636
+         sad       0.60      0.31      0.41       580
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.56      0.54      1216
+weighted avg       0.58      0.57      0.54      1216
+
+
+Epoch: 4 Loss train: 0.7178   Loss Test: 0.6885
+              precision    recall  f1-score   support
+
+       happy       0.56      0.84      0.67       634
+         sad       0.61      0.27      0.37       582
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.55      0.52      1216
+weighted avg       0.58      0.57      0.53      1216
+
+
+Epoch: 5 Loss train: 0.7124   Loss Test: 0.694
+              precision    recall  f1-score   support
+
+       happy       0.55      0.85      0.67       635
+         sad       0.60      0.24      0.35       581
+
+    accuracy                           0.56      1216
+   macro avg       0.58      0.55      0.51      1216
+weighted avg       0.57      0.56      0.52      1216
+
+
+Epoch: 6 Loss train: 0.7036   Loss Test: 0.6903
+              precision    recall  f1-score   support
+
+       happy       0.56      0.83      0.67       634
+         sad       0.61      0.28      0.38       582
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.56      0.52      1216
+weighted avg       0.58      0.57      0.53      1216
+
+
+Epoch: 7 Loss train: 0.694   Loss Test: 0.6936
+              precision    recall  f1-score   support
+
+       happy       0.56      0.82      0.66       635
+         sad       0.59      0.29      0.39       581
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.56      0.53      1216
+weighted avg       0.58      0.57      0.53      1216
+
+
+Epoch: 8 Loss train: 0.6849   Loss Test: 0.6868
+              precision    recall  f1-score   support
+
+       happy       0.56      0.79      0.66       637
+         sad       0.59      0.32      0.42       579
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.56      0.54      1216
+weighted avg       0.58      0.57      0.54      1216
+
+
+Epoch: 9 Loss train: 0.6766   Loss Test: 0.6923
+              precision    recall  f1-score   support
+
+       happy       0.56      0.78      0.65       630
+         sad       0.58      0.33      0.42       586
+
+    accuracy                           0.56      1216
+   macro avg       0.57      0.56      0.54      1216
+weighted avg       0.57      0.56      0.54      1216
+
+
+Epoch: 10 Loss train: 0.6689   Loss Test: 0.6972
+              precision    recall  f1-score   support
+
+       happy       0.56      0.77      0.65       628
+         sad       0.58      0.35      0.43       588
+
+    accuracy                           0.56      1216
+   macro avg       0.57      0.56      0.54      1216
+weighted avg       0.57      0.56      0.54      1216
+
+
+Epoch: 11 Loss train: 0.6615   Loss Test: 0.6937
+              precision    recall  f1-score   support
+
+       happy       0.56      0.74      0.64       632
+         sad       0.56      0.36      0.44       584
+
+    accuracy                           0.56      1216
+   macro avg       0.56      0.55      0.54      1216
+weighted avg       0.56      0.56      0.54      1216
+
+
+Epoch: 12 Loss train: 0.6544   Loss Test: 0.6934
+              precision    recall  f1-score   support
+
+       happy       0.56      0.74      0.64       634
+         sad       0.57      0.38      0.45       582
+
+    accuracy                           0.56      1216
+   macro avg       0.57      0.56      0.55      1216
+weighted avg       0.57      0.56      0.55      1216
+
+
+Epoch: 13 Loss train: 0.6474   Loss Test: 0.6926
+              precision    recall  f1-score   support
+
+       happy       0.57      0.73      0.64       631
+         sad       0.58      0.39      0.47       585
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.56      0.55      1216
+weighted avg       0.57      0.57      0.56      1216
+
+
+Epoch: 14 Loss train: 0.6404   Loss Test: 0.6994
+              precision    recall  f1-score   support
+
+       happy       0.57      0.71      0.63       637
+         sad       0.56      0.40      0.47       579
+
+    accuracy                           0.56      1216
+   macro avg       0.56      0.55      0.55      1216
+weighted avg       0.56      0.56      0.55      1216
+
+
+Epoch: 15 Loss train: 0.6332   Loss Test: 0.7001
+              precision    recall  f1-score   support
+
+       happy       0.57      0.70      0.63       638
+         sad       0.56      0.42      0.48       578
+
+    accuracy                           0.57      1216
+   macro avg       0.56      0.56      0.55      1216
+weighted avg       0.56      0.57      0.56      1216
+
+
+Epoch: 16 Loss train: 0.6257   Loss Test: 0.6993
+              precision    recall  f1-score   support
+
+       happy       0.58      0.70      0.63       634
+         sad       0.57      0.45      0.50       582
+
+    accuracy                           0.58      1216
+   macro avg       0.58      0.57      0.57      1216
+weighted avg       0.58      0.58      0.57      1216
+
+
+Epoch: 17 Loss train: 0.6179   Loss Test: 0.6941
+              precision    recall  f1-score   support
+
+       happy       0.58      0.67      0.62       633
+         sad       0.57      0.48      0.52       583
+
+    accuracy                           0.58      1216
+   macro avg       0.58      0.58      0.57      1216
+weighted avg       0.58      0.58      0.58      1216
+
+
+Epoch: 18 Loss train: 0.61   Loss Test: 0.6989
+              precision    recall  f1-score   support
+
+       happy       0.58      0.63      0.61       636
+         sad       0.56      0.51      0.53       580
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.57      0.57      1216
+weighted avg       0.57      0.57      0.57      1216
+
+
+Epoch: 19 Loss train: 0.6023   Loss Test: 0.7001
+              precision    recall  f1-score   support
+
+       happy       0.58      0.60      0.59       627
+         sad       0.56      0.53      0.54       589
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.57      0.57      1216
+weighted avg       0.57      0.57      0.57      1216
+
+
+Epoch: 20 Loss train: 0.5949   Loss Test: 0.6983
+              precision    recall  f1-score   support
+
+       happy       0.59      0.58      0.58       629
+         sad       0.56      0.57      0.56       587
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.57      0.57      1216
+weighted avg       0.57      0.57      0.57      1216
+
+
+Epoch: 21 Loss train: 0.5881   Loss Test: 0.7041
+              precision    recall  f1-score   support
+
+       happy       0.60      0.55      0.57       636
+         sad       0.55      0.59      0.57       580
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.57      0.57      1216
+weighted avg       0.57      0.57      0.57      1216
+
+
+Epoch: 22 Loss train: 0.5818   Loss Test: 0.7097
+              precision    recall  f1-score   support
+
+       happy       0.61      0.53      0.57       634
+         sad       0.55      0.63      0.59       582
+
+    accuracy                           0.58      1216
+   macro avg       0.58      0.58      0.58      1216
+weighted avg       0.58      0.58      0.58      1216
+
+
+Epoch: 23 Loss train: 0.5759   Loss Test: 0.7146
+              precision    recall  f1-score   support
+
+       happy       0.60      0.50      0.55       635
+         sad       0.54      0.64      0.58       581
+
+    accuracy                           0.57      1216
+   macro avg       0.57      0.57      0.57      1216
+weighted avg       0.57      0.57      0.57      1216
+
+
+Epoch: 24 Loss train: 0.5704   Loss Test: 0.719
+              precision    recall  f1-score   support
+
+       happy       0.62      0.47      0.53       634
+         sad       0.54      0.68      0.60       582
+
+    accuracy                           0.57      1216
+   macro avg       0.58      0.57      0.57      1216
+weighted avg       0.58      0.57      0.57      1216
+
+
+Epoch: 25 Loss train: 0.5652   Loss Test: 0.7319
+              precision    recall  f1-score   support
+
+       happy       0.60      0.43      0.50       635
+         sad       0.52      0.68      0.59       581
+
+    accuracy                           0.55      1216
+   macro avg       0.56      0.56      0.55      1216
+weighted avg       0.56      0.55      0.55      1216
+
+
+Epoch: 26 Loss train: 0.5604   Loss Test: 0.7349
+              precision    recall  f1-score   support
+
+       happy       0.61      0.42      0.50       637
+         sad       0.53      0.71      0.60       579
+
+    accuracy                           0.56      1216
+   macro avg       0.57      0.56      0.55      1216
+weighted avg       0.57      0.56      0.55      1216
+
+
+Epoch: 27 Loss train: 0.556   Loss Test: 0.7393
+              precision    recall  f1-score   support
+
+       happy       0.61      0.40      0.48       630
+         sad       0.53      0.72      0.61       586
+
+    accuracy                           0.55      1216
+   macro avg       0.57      0.56      0.55      1216
+weighted avg       0.57      0.55      0.54      1216
+
+
+Epoch: 28 Loss train: 0.5519   Loss Test: 0.7508
+              precision    recall  f1-score   support
+
+       happy       0.61      0.39      0.48       628
+         sad       0.53      0.73      0.61       588
+
+    accuracy                           0.56      1216
+   macro avg       0.57      0.56      0.55      1216
+weighted avg       0.57      0.56      0.54      1216
+
+
+Epoch: 29 Loss train: 0.5481   Loss Test: 0.7582
+              precision    recall  f1-score   support
+
+       happy       0.63      0.38      0.47       632
+         sad       0.53      0.75      0.62       584
+
+    accuracy                           0.56      1216
+   macro avg       0.58      0.57      0.55      1216
+weighted avg       0.58      0.56      0.55      1216
+
+
+Epoch: 30 Loss train: 0.5445   Loss Test: 0.7633
+              precision    recall  f1-score   support
+
+       happy       0.63      0.36      0.46       634
+         sad       0.52      0.76      0.62       582
+
+    accuracy                           0.56      1216
+   macro avg       0.58      0.56      0.54      1216
+weighted avg       0.58      0.56      0.54      1216
+
+
+Epoch: 31 Loss train: 0.5411   Loss Test: 0.7651
+              precision    recall  f1-score   support
+
+       happy       0.63      0.36      0.46       631
+         sad       0.53      0.77      0.62       585
+
+    accuracy                           0.56      1216
+   macro avg       0.58      0.56      0.54      1216
+weighted avg       0.58      0.56      0.54      1216
+
+
+Epoch: 32 Loss train: 0.5378   Loss Test: 0.7829
+              precision    recall  f1-score   support
+
+       happy       0.62      0.33      0.43       637
+         sad       0.51      0.78      0.62       579
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.56      0.53      1216
+weighted avg       0.57      0.54      0.52      1216
+
+
+Epoch: 33 Loss train: 0.5346   Loss Test: 0.794
+              precision    recall  f1-score   support
+
+       happy       0.62      0.32      0.42       638
+         sad       0.51      0.78      0.62       578
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.55      0.52      1216
+weighted avg       0.57      0.54      0.52      1216
+
+
+Epoch: 34 Loss train: 0.5314   Loss Test: 0.7917
+              precision    recall  f1-score   support
+
+       happy       0.62      0.32      0.42       634
+         sad       0.51      0.78      0.62       582
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.55      0.52      1216
+weighted avg       0.57      0.54      0.52      1216
+
+
+Epoch: 35 Loss train: 0.5283   Loss Test: 0.7901
+              precision    recall  f1-score   support
+
+       happy       0.62      0.31      0.42       633
+         sad       0.52      0.79      0.62       583
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.55      0.52      1216
+weighted avg       0.57      0.54      0.52      1216
+
+
+Epoch: 36 Loss train: 0.5251   Loss Test: 0.8
+              precision    recall  f1-score   support
+
+       happy       0.62      0.31      0.41       636
+         sad       0.51      0.79      0.62       580
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.52      1216
+weighted avg       0.57      0.54      0.51      1216
+
+
+Epoch: 37 Loss train: 0.522   Loss Test: 0.7995
+              precision    recall  f1-score   support
+
+       happy       0.61      0.30      0.41       627
+         sad       0.52      0.79      0.63       589
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.52      1216
+weighted avg       0.57      0.54      0.51      1216
+
+
+Epoch: 38 Loss train: 0.5189   Loss Test: 0.7978
+              precision    recall  f1-score   support
+
+       happy       0.62      0.31      0.41       629
+         sad       0.52      0.80      0.63       587
+
+    accuracy                           0.55      1216
+   macro avg       0.57      0.55      0.52      1216
+weighted avg       0.57      0.55      0.52      1216
+
+
+Epoch: 39 Loss train: 0.5157   Loss Test: 0.8123
+              precision    recall  f1-score   support
+
+       happy       0.62      0.30      0.41       636
+         sad       0.51      0.80      0.62       580
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.55      0.52      1216
+weighted avg       0.57      0.54      0.51      1216
+
+
+Epoch: 40 Loss train: 0.5126   Loss Test: 0.816
+              precision    recall  f1-score   support
+
+       happy       0.62      0.30      0.40       634
+         sad       0.51      0.80      0.62       582
+
+    accuracy                           0.54      1216
+   macro avg       0.57      0.55      0.51      1216
+weighted avg       0.57      0.54      0.51      1216
+
+
+Epoch: 41 Loss train: 0.5095   Loss Test: 0.8152
+              precision    recall  f1-score   support
+
+       happy       0.61      0.30      0.40       635
+         sad       0.51      0.79      0.62       581
+
+    accuracy                           0.53      1216
+   macro avg       0.56      0.54      0.51      1216
+weighted avg       0.56      0.53      0.50      1216
+
+
+Epoch: 42 Loss train: 0.5064   Loss Test: 0.8155
+              precision    recall  f1-score   support
+
+       happy       0.61      0.29      0.40       634
+         sad       0.51      0.80      0.62       582
+
+    accuracy                           0.53      1216
+   macro avg       0.56      0.54      0.51      1216
+weighted avg       0.56      0.53      0.50      1216
+
+
+Epoch: 43 Loss train: 0.5033   Loss Test: 0.8242
+              precision    recall  f1-score   support
+
+       happy       0.60      0.29      0.39       635
+         sad       0.51      0.79      0.62       581
+
+    accuracy                           0.53      1216
+   macro avg       0.56      0.54      0.51      1216
+weighted avg       0.56      0.53      0.50      1216
+
+
+Epoch: 44 Loss train: 0.5002   Loss Test: 0.8226
+              precision    recall  f1-score   support
+
+       happy       0.61      0.30      0.40       637
+         sad       0.51      0.79      0.62       579
+
+    accuracy                           0.53      1216
+   macro avg       0.56      0.54      0.51      1216
+weighted avg       0.56      0.53      0.50      1216
+
+
+Epoch: 45 Loss train: 0.4971   Loss Test: 0.8152
+              precision    recall  f1-score   support
+
+       happy       0.61      0.31      0.41       630
+         sad       0.51      0.78      0.62       586
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.51      1216
+weighted avg       0.56      0.54      0.51      1216
+
+
+Epoch: 46 Loss train: 0.4941   Loss Test: 0.82
+              precision    recall  f1-score   support
+
+       happy       0.61      0.32      0.42       628
+         sad       0.52      0.78      0.62       588
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.52      1216
+weighted avg       0.56      0.54      0.52      1216
+
+
+Epoch: 47 Loss train: 0.4911   Loss Test: 0.8235
+              precision    recall  f1-score   support
+
+       happy       0.61      0.31      0.42       632
+         sad       0.51      0.78      0.62       584
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.52      1216
+weighted avg       0.57      0.54      0.51      1216
+
+
+Epoch: 48 Loss train: 0.4881   Loss Test: 0.8215
+              precision    recall  f1-score   support
+
+       happy       0.60      0.31      0.41       634
+         sad       0.51      0.77      0.61       582
+
+    accuracy                           0.53      1216
+   macro avg       0.55      0.54      0.51      1216
+weighted avg       0.55      0.53      0.51      1216
+
+
+Epoch: 49 Loss train: 0.4852   Loss Test: 0.8155
+              precision    recall  f1-score   support
+
+       happy       0.60      0.32      0.42       631
+         sad       0.51      0.77      0.61       585
+
+    accuracy                           0.54      1216
+   macro avg       0.56      0.55      0.52      1216
+weighted avg       0.56      0.54      0.51      1216
+
+
+Epoch: 50 Loss train: 0.4823   Loss Test: 0.8276
+              precision    recall  f1-score   support
+
+       happy       0.59      0.31      0.41       637
+         sad       0.50      0.76      0.60       579
+
+    accuracy                           0.52      1216
+   macro avg       0.54      0.54      0.51      1216
+weighted avg       0.55      0.52      0.50      1216
+

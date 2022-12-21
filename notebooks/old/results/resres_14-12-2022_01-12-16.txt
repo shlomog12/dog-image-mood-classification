@@ -5,7 +5,7 @@ E: 0   Loss train: 0.7007   Loss Test: 0.6798
        happy       0.54      0.79      0.64       569
          sad       0.62      0.34      0.44       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.58      0.56      0.54      1152
 weighted avg       0.58      0.56      0.54      1152
 
@@ -16,7 +16,7 @@ E: 1   Loss train: 0.6755   Loss Test: 0.673
        happy       0.54      0.78      0.64       569
          sad       0.62      0.36      0.46       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.58      0.57      0.55      1152
 weighted avg       0.58      0.57      0.55      1152
 
@@ -27,7 +27,7 @@ E: 2   Loss train: 0.6665   Loss Test: 0.6687
        happy       0.55      0.74      0.63       569
          sad       0.62      0.42      0.50       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.58      0.58      0.56      1152
 weighted avg       0.58      0.57      0.56      1152
 
@@ -38,7 +38,7 @@ E: 3   Loss train: 0.6602   Loss Test: 0.667
        happy       0.56      0.72      0.63       569
          sad       0.62      0.44      0.52       583
 
-    accuracy                           0.58      1152
+  Loss Testuracy                           0.58      1152
    macro avg       0.59      0.58      0.57      1152
 weighted avg       0.59      0.58      0.57      1152
 
@@ -49,7 +49,7 @@ E: 4   Loss train: 0.6554   Loss Test: 0.6665
        happy       0.56      0.72      0.63       569
          sad       0.62      0.45      0.52       583
 
-    accuracy                           0.58      1152
+  Loss Testuracy                           0.58      1152
    macro avg       0.59      0.59      0.58      1152
 weighted avg       0.59      0.58      0.58      1152
 
@@ -60,7 +60,7 @@ E: 5   Loss train: 0.6512   Loss Test: 0.6667
        happy       0.56      0.72      0.63       569
          sad       0.62      0.45      0.52       583
 
-    accuracy                           0.58      1152
+  Loss Testuracy                           0.58      1152
    macro avg       0.59      0.58      0.58      1152
 weighted avg       0.59      0.58      0.57      1152
 
@@ -71,7 +71,7 @@ E: 6   Loss train: 0.6475   Loss Test: 0.6672
        happy       0.56      0.71      0.62       569
          sad       0.61      0.45      0.52       583
 
-    accuracy                           0.58      1152
+  Loss Testuracy                           0.58      1152
    macro avg       0.58      0.58      0.57      1152
 weighted avg       0.59      0.58      0.57      1152
 
@@ -82,7 +82,7 @@ E: 7   Loss train: 0.644   Loss Test: 0.6678
        happy       0.55      0.70      0.62       569
          sad       0.60      0.45      0.51       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.58      0.57      0.57      1152
 weighted avg       0.58      0.57      0.57      1152
 
@@ -93,7 +93,7 @@ E: 8   Loss train: 0.6408   Loss Test: 0.6686
        happy       0.55      0.70      0.62       569
          sad       0.60      0.45      0.51       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.58      0.57      0.56      1152
 weighted avg       0.58      0.57      0.56      1152
 
@@ -104,7 +104,7 @@ E: 9   Loss train: 0.6376   Loss Test: 0.6694
        happy       0.55      0.69      0.61       569
          sad       0.59      0.44      0.51       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.57      0.56      1152
 
@@ -115,7 +115,7 @@ E: 10   Loss train: 0.6347   Loss Test: 0.6702
        happy       0.55      0.70      0.61       569
          sad       0.60      0.44      0.50       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.57      0.56      1152
 
@@ -126,7 +126,7 @@ E: 11   Loss train: 0.6318   Loss Test: 0.671
        happy       0.55      0.70      0.61       569
          sad       0.60      0.44      0.51       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.57      0.56      1152
 
@@ -137,7 +137,7 @@ E: 12   Loss train: 0.629   Loss Test: 0.6718
        happy       0.55      0.70      0.61       569
          sad       0.60      0.44      0.50       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.57      0.56      1152
 
@@ -148,7 +148,7 @@ E: 13   Loss train: 0.6263   Loss Test: 0.6726
        happy       0.55      0.70      0.61       569
          sad       0.59      0.43      0.50       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.56      1152
 weighted avg       0.57      0.56      0.56      1152
 
@@ -159,7 +159,7 @@ E: 14   Loss train: 0.6237   Loss Test: 0.6734
        happy       0.54      0.70      0.61       569
          sad       0.59      0.43      0.50       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -170,7 +170,7 @@ E: 15   Loss train: 0.6212   Loss Test: 0.6742
        happy       0.54      0.70      0.61       569
          sad       0.59      0.43      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -181,7 +181,7 @@ E: 16   Loss train: 0.6187   Loss Test: 0.675
        happy       0.54      0.69      0.61       569
          sad       0.58      0.42      0.49       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -192,7 +192,7 @@ E: 17   Loss train: 0.6163   Loss Test: 0.6758
        happy       0.54      0.69      0.61       569
          sad       0.58      0.42      0.49       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -203,7 +203,7 @@ E: 18   Loss train: 0.614   Loss Test: 0.6766
        happy       0.54      0.69      0.61       569
          sad       0.58      0.42      0.49       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -214,7 +214,7 @@ E: 19   Loss train: 0.6117   Loss Test: 0.6773
        happy       0.54      0.69      0.60       569
          sad       0.58      0.42      0.49       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.55      0.54      1152
 weighted avg       0.56      0.55      0.54      1152
 
@@ -225,7 +225,7 @@ E: 20   Loss train: 0.6095   Loss Test: 0.6781
        happy       0.53      0.69      0.60       569
          sad       0.58      0.41      0.48       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.55      0.54      1152
 weighted avg       0.56      0.55      0.54      1152
 
@@ -236,7 +236,7 @@ E: 21   Loss train: 0.6073   Loss Test: 0.6788
        happy       0.53      0.69      0.60       569
          sad       0.58      0.41      0.48       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.55      0.54      1152
 weighted avg       0.56      0.55      0.54      1152
 
@@ -247,7 +247,7 @@ E: 22   Loss train: 0.6052   Loss Test: 0.6796
        happy       0.53      0.69      0.60       569
          sad       0.58      0.41      0.48       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.55      0.55      0.54      1152
 weighted avg       0.55      0.55      0.54      1152
 
@@ -258,7 +258,7 @@ E: 23   Loss train: 0.6032   Loss Test: 0.6803
        happy       0.54      0.69      0.60       569
          sad       0.58      0.41      0.48       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.55      0.54      1152
 weighted avg       0.56      0.55      0.54      1152
 
@@ -269,7 +269,7 @@ E: 24   Loss train: 0.6011   Loss Test: 0.681
        happy       0.54      0.70      0.61       569
          sad       0.58      0.42      0.49       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -280,7 +280,7 @@ E: 25   Loss train: 0.5991   Loss Test: 0.6818
        happy       0.54      0.70      0.61       569
          sad       0.59      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -291,7 +291,7 @@ E: 26   Loss train: 0.5972   Loss Test: 0.6825
        happy       0.54      0.70      0.61       569
          sad       0.59      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -302,7 +302,7 @@ E: 27   Loss train: 0.5953   Loss Test: 0.6832
        happy       0.54      0.70      0.61       569
          sad       0.58      0.41      0.48       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -313,7 +313,7 @@ E: 28   Loss train: 0.5934   Loss Test: 0.6839
        happy       0.54      0.70      0.61       569
          sad       0.59      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -324,7 +324,7 @@ E: 29   Loss train: 0.5916   Loss Test: 0.6846
        happy       0.54      0.70      0.61       569
          sad       0.59      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -335,7 +335,7 @@ E: 30   Loss train: 0.5898   Loss Test: 0.6853
        happy       0.54      0.70      0.61       569
          sad       0.59      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -346,7 +346,7 @@ E: 31   Loss train: 0.5881   Loss Test: 0.686
        happy       0.54      0.71      0.61       569
          sad       0.59      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -357,7 +357,7 @@ E: 32   Loss train: 0.5863   Loss Test: 0.6867
        happy       0.54      0.71      0.61       569
          sad       0.59      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -368,7 +368,7 @@ E: 33   Loss train: 0.5846   Loss Test: 0.6874
        happy       0.54      0.71      0.61       569
          sad       0.59      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -379,7 +379,7 @@ E: 34   Loss train: 0.583   Loss Test: 0.6881
        happy       0.54      0.71      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -390,7 +390,7 @@ E: 35   Loss train: 0.5813   Loss Test: 0.6888
        happy       0.54      0.71      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -401,7 +401,7 @@ E: 36   Loss train: 0.5797   Loss Test: 0.6895
        happy       0.54      0.72      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -412,7 +412,7 @@ E: 37   Loss train: 0.5782   Loss Test: 0.6901
        happy       0.54      0.72      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -423,7 +423,7 @@ E: 38   Loss train: 0.5766   Loss Test: 0.6908
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -434,7 +434,7 @@ E: 39   Loss train: 0.5751   Loss Test: 0.6915
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -445,7 +445,7 @@ E: 40   Loss train: 0.5737   Loss Test: 0.6922
        happy       0.54      0.72      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -456,7 +456,7 @@ E: 41   Loss train: 0.5722   Loss Test: 0.6928
        happy       0.55      0.72      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.57      1152
+  Loss Testuracy                           0.57      1152
    macro avg       0.57      0.57      0.56      1152
 weighted avg       0.57      0.57      0.55      1152
 
@@ -467,7 +467,7 @@ E: 42   Loss train: 0.5708   Loss Test: 0.6935
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -478,7 +478,7 @@ E: 43   Loss train: 0.5694   Loss Test: 0.6941
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -489,7 +489,7 @@ E: 44   Loss train: 0.568   Loss Test: 0.6947
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -500,7 +500,7 @@ E: 45   Loss train: 0.5667   Loss Test: 0.6954
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.57      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -511,7 +511,7 @@ E: 46   Loss train: 0.5654   Loss Test: 0.6959
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -522,7 +522,7 @@ E: 47   Loss train: 0.5641   Loss Test: 0.6965
        happy       0.54      0.72      0.62       569
          sad       0.60      0.40      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -533,7 +533,7 @@ E: 48   Loss train: 0.5629   Loss Test: 0.6971
        happy       0.54      0.72      0.62       569
          sad       0.60      0.40      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -544,7 +544,7 @@ E: 49   Loss train: 0.5617   Loss Test: 0.6976
        happy       0.54      0.72      0.62       569
          sad       0.59      0.40      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -555,7 +555,7 @@ E: 50   Loss train: 0.5605   Loss Test: 0.698
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -566,7 +566,7 @@ E: 51   Loss train: 0.5594   Loss Test: 0.6984
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.48       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -577,7 +577,7 @@ E: 52   Loss train: 0.5583   Loss Test: 0.6988
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -588,7 +588,7 @@ E: 53   Loss train: 0.5572   Loss Test: 0.6991
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -599,7 +599,7 @@ E: 54   Loss train: 0.5561   Loss Test: 0.6993
        happy       0.54      0.72      0.62       569
          sad       0.60      0.41      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -610,7 +610,7 @@ E: 55   Loss train: 0.5551   Loss Test: 0.6995
        happy       0.54      0.71      0.62       569
          sad       0.60      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -621,7 +621,7 @@ E: 56   Loss train: 0.5541   Loss Test: 0.6995
        happy       0.54      0.71      0.61       569
          sad       0.59      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -632,7 +632,7 @@ E: 57   Loss train: 0.5531   Loss Test: 0.6995
        happy       0.54      0.70      0.61       569
          sad       0.59      0.42      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.57      0.56      0.55      1152
 weighted avg       0.57      0.56      0.55      1152
 
@@ -643,7 +643,7 @@ E: 58   Loss train: 0.5522   Loss Test: 0.6994
        happy       0.54      0.69      0.61       569
          sad       0.59      0.43      0.49       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -654,7 +654,7 @@ E: 59   Loss train: 0.5512   Loss Test: 0.6992
        happy       0.54      0.68      0.60       569
          sad       0.58      0.44      0.50       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.56      0.55      1152
 
@@ -665,7 +665,7 @@ E: 60   Loss train: 0.5502   Loss Test: 0.699
        happy       0.54      0.67      0.60       569
          sad       0.58      0.44      0.50       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -676,7 +676,7 @@ E: 61   Loss train: 0.5493   Loss Test: 0.6987
        happy       0.54      0.66      0.59       569
          sad       0.58      0.45      0.50       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.56      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -687,7 +687,7 @@ E: 62   Loss train: 0.5483   Loss Test: 0.6985
        happy       0.54      0.65      0.59       569
          sad       0.57      0.46      0.51       583
 
-    accuracy                           0.55      1152
+  Loss Testuracy                           0.55      1152
    macro avg       0.56      0.55      0.55      1152
 weighted avg       0.56      0.55      0.55      1152
 
@@ -698,7 +698,7 @@ E: 63   Loss train: 0.5473   Loss Test: 0.6982
        happy       0.55      0.64      0.59       569
          sad       0.58      0.48      0.53       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -709,7 +709,7 @@ E: 64   Loss train: 0.5462   Loss Test: 0.698
        happy       0.55      0.63      0.59       569
          sad       0.58      0.49      0.53       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -720,7 +720,7 @@ E: 65   Loss train: 0.5452   Loss Test: 0.6978
        happy       0.55      0.62      0.58       569
          sad       0.57      0.49      0.53       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -731,7 +731,7 @@ E: 66   Loss train: 0.5441   Loss Test: 0.6977
        happy       0.55      0.62      0.58       569
          sad       0.58      0.51      0.54       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -742,7 +742,7 @@ E: 67   Loss train: 0.5429   Loss Test: 0.6977
        happy       0.55      0.61      0.58       569
          sad       0.58      0.52      0.54       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -753,7 +753,7 @@ E: 68   Loss train: 0.5418   Loss Test: 0.6978
        happy       0.55      0.60      0.57       569
          sad       0.57      0.52      0.55       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -764,7 +764,7 @@ E: 69   Loss train: 0.5406   Loss Test: 0.698
        happy       0.55      0.59      0.57       569
          sad       0.57      0.52      0.54       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -775,7 +775,7 @@ E: 70   Loss train: 0.5395   Loss Test: 0.6982
        happy       0.55      0.58      0.57       569
          sad       0.57      0.54      0.55       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -786,7 +786,7 @@ E: 71   Loss train: 0.5383   Loss Test: 0.6985
        happy       0.55      0.57      0.56       569
          sad       0.56      0.54      0.55       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -797,7 +797,7 @@ E: 72   Loss train: 0.5371   Loss Test: 0.6988
        happy       0.55      0.57      0.56       569
          sad       0.56      0.54      0.55       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -808,7 +808,7 @@ E: 73   Loss train: 0.5359   Loss Test: 0.6991
        happy       0.55      0.56      0.56       569
          sad       0.56      0.56      0.56       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -819,7 +819,7 @@ E: 74   Loss train: 0.5347   Loss Test: 0.6995
        happy       0.55      0.56      0.56       569
          sad       0.57      0.56      0.56       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -830,7 +830,7 @@ E: 75   Loss train: 0.5335   Loss Test: 0.6999
        happy       0.56      0.56      0.56       569
          sad       0.57      0.56      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -841,7 +841,7 @@ E: 76   Loss train: 0.5324   Loss Test: 0.7003
        happy       0.56      0.56      0.56       569
          sad       0.57      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -852,7 +852,7 @@ E: 77   Loss train: 0.5312   Loss Test: 0.7006
        happy       0.56      0.55      0.55       569
          sad       0.57      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -863,7 +863,7 @@ E: 78   Loss train: 0.5301   Loss Test: 0.701
        happy       0.55      0.54      0.55       569
          sad       0.56      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -874,7 +874,7 @@ E: 79   Loss train: 0.5289   Loss Test: 0.7014
        happy       0.55      0.54      0.55       569
          sad       0.56      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -885,7 +885,7 @@ E: 80   Loss train: 0.5278   Loss Test: 0.7018
        happy       0.55      0.54      0.55       569
          sad       0.56      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -896,7 +896,7 @@ E: 81   Loss train: 0.5267   Loss Test: 0.7022
        happy       0.55      0.54      0.54       569
          sad       0.56      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -907,7 +907,7 @@ E: 82   Loss train: 0.5256   Loss Test: 0.7025
        happy       0.55      0.54      0.54       569
          sad       0.56      0.57      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -918,7 +918,7 @@ E: 83   Loss train: 0.5245   Loss Test: 0.7029
        happy       0.55      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -929,7 +929,7 @@ E: 84   Loss train: 0.5234   Loss Test: 0.7032
        happy       0.55      0.54      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -940,7 +940,7 @@ E: 85   Loss train: 0.5223   Loss Test: 0.7036
        happy       0.55      0.54      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -951,7 +951,7 @@ E: 86   Loss train: 0.5212   Loss Test: 0.7039
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -962,7 +962,7 @@ E: 87   Loss train: 0.5202   Loss Test: 0.7043
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -973,7 +973,7 @@ E: 88   Loss train: 0.5191   Loss Test: 0.7046
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -984,7 +984,7 @@ E: 89   Loss train: 0.5181   Loss Test: 0.7049
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -995,7 +995,7 @@ E: 90   Loss train: 0.517   Loss Test: 0.7053
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1006,7 +1006,7 @@ E: 91   Loss train: 0.516   Loss Test: 0.7056
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1017,7 +1017,7 @@ E: 92   Loss train: 0.5149   Loss Test: 0.7059
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1028,7 +1028,7 @@ E: 93   Loss train: 0.5139   Loss Test: 0.7063
        happy       0.55      0.53      0.54       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1039,7 +1039,7 @@ E: 94   Loss train: 0.5129   Loss Test: 0.7066
        happy       0.55      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1050,7 +1050,7 @@ E: 95   Loss train: 0.5119   Loss Test: 0.7069
        happy       0.56      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1061,7 +1061,7 @@ E: 96   Loss train: 0.5109   Loss Test: 0.7072
        happy       0.56      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1072,7 +1072,7 @@ E: 97   Loss train: 0.5099   Loss Test: 0.7076
        happy       0.56      0.54      0.55       569
          sad       0.57      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1083,7 +1083,7 @@ E: 98   Loss train: 0.5089   Loss Test: 0.7079
        happy       0.56      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
+  Loss Testuracy                           0.56      1152
    macro avg       0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
@@ -1098,7 +1098,30 @@ E: 99   Loss train: 0.5079   Loss Test: 0.7082
        happy       0.56      0.54      0.55       569
          sad       0.56      0.58      0.57       583
 
-    accuracy                           0.56      1152
-   macro avg       0.56      0.56      0.56      1152
+Loss Testuracy                         0.56      1152
+macro avg          0.56      0.56      0.56      1152
 weighted avg       0.56      0.56      0.56      1152
 
+
+
+E: 0   Loss train: 0.7007   Loss Test: 0.6798
+E: 10   Loss train: 0.6347   Loss Test: 0.6702
+E: 20   Loss train: 0.6095   Loss Test: 0.6781
+E: 30   Loss train: 0.5898   Loss Test: 0.6853
+E: 40   Loss train: 0.5737   Loss Test: 0.6922
+E: 50   Loss train: 0.5605   Loss Test: 0.698
+E: 60   Loss train: 0.5502   Loss Test: 0.699
+E: 70   Loss train: 0.5395   Loss Test: 0.6982
+E: 80   Loss train: 0.5278   Loss Test: 0.7018
+E: 90   Loss train: 0.517   Loss Test: 0.7053
+
+E: 0   Loss train: 1.3654   Loss Test: 0.6741
+E: 10   Loss train: 0.6667   Loss Test: 0.694
+E: 20   Loss train: 0.6240   Loss Test: 0.6972
+E: 30   Loss train: 0.5419   Loss Test: 0.7001
+E: 40   Loss train: 0.4474   Loss Test: 0.6983
+E: 50   Loss train: 0.3939   Loss Test: 0.7319
+E: 60   Loss train: 0.3890   Loss Test: 0.7633
+E: 70   Loss train: 0.3569   Loss Test: 0.7901
+E: 80   Loss train: 0.3096   Loss Test: 0.816
+E: 90   Loss train: 0.2594   Loss Test: 0.8152
