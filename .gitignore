@@ -4,4 +4,5 @@ utils/__pycache__/*
 data/*
 temp.ipynb
 temp2.ipynb
-notebooks/old/*
+notebooks/*
+models_history/*
